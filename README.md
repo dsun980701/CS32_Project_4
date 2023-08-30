@@ -1,4 +1,4 @@
-# CS32_Project4 : Unhinged
+# CS32_Project_4 : Unhinged
 Following was uploaded for submission to MAVRL lab by David Sun.
 
 This was final project from CS32 course in UCLA. The originally distributed project spec and provided codes are under the folder **"Unhinged_Provided"**. The folder **"Project_4"** cotains all of the submitted codes and report for the project, which were all strictly written by myself, David Sun. 
