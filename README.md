@@ -1,11 +1,12 @@
 # CS32_Project_4 : Unhinged
 Following was uploaded for submission to MAVRL lab by David Sun.
 
-This was final project from CS32 course in UCLA. The originally distributed project spec and provided codes are under the folder **"Unhinged_Provided"**. The folder **"Project_4"** cotains all of the submitted codes and report for the project, which were all strictly written by myself, David Sun. 
+This was the final project from CS32 course in UCLA. 
+The class-distributed project spec, provided codes, and raw data are in the folder **"Unhinged_Provided"**. The folder **"Project_4"** cotains all of the submitted codes and report for the project, which were all written strictly by myself, David Sun. 
 
-The following project has earned 100/100; I've recieved top ~4%(A+) as final grade for the course CS32.
+The following project has scored 100/100; I've recieved an A+(top ~4%) as the final grade for the course CS32.
 
-Details can be found in the Project Spec, and the code; here is a overall high-level summary of the project:
+Further details can be found in the Project Spec, and the code; here is an overall high-level summary of the project:
 
   **Goal**
   
